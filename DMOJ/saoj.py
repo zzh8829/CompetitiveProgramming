@@ -1,0 +1,1 @@
+print((lambda n:n*(n+1)*(2*n+1)*(3*n**4+6*n**3-3*n+1)//42)(int(input()))%int(1e99))
